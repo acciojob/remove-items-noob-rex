@@ -1,4 +1,5 @@
-
+//your JS code here. If required.
+// Get references to the select element and the remove button
 const colorSelect = document.getElementById('colorSelect');
 const removeColorButton = document.getElementById('removeColorButton');
 
